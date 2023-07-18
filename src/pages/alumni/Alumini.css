@@ -1,0 +1,13 @@
+.alumini_content{
+    text-align: center;
+}
+.alumini_content h3{
+    margin-top: 3rem;
+}
+.alumini_content p{
+    margin-top: 2rem;
+    font-family: Open Sans,Arial,sans-serif;
+    font-weight: 300;
+    opacity: 0.7;
+    font-size: 21px;
+}

@@ -1,0 +1,163 @@
+.president{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gmember{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;  
+}
+.somes_committe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.somes_committe h2,h3{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+#committe h1{
+    margin: 20px 0;
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    text-shadow: 2px -3px 3px rgba(0, 0, 0, 0.297);
+}
+#committe .member
+{
+    margin: 20px 15px;
+    border-radius: 15px;
+    width: 300px;
+    padding: 40px 0;
+    height: max-content;
+    background-color: #fff;
+    transition: all 1s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+   
+}
+
+#committe .member::after
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "";
+    width: 0;
+    height: 20px;
+    transition: all 1s;
+    background: rgba(8,61,119);
+}
+
+#committe .member::before
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "";
+    width: 0;
+    height: 20px;
+    transition: all 1s;
+    background: rgba(8,61,119);
+}
+
+#committe img
+{
+   border-radius: 50%;
+    transition: all 1s;
+    border: 3px dashed rgba(8,61,119);
+   
+}
+
+#committe .description h1
+{
+    color: rgba(8,61,119);
+    text-align: center;
+    font-size: 24px;
+}
+
+#committe .description h2
+{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #F21B3F;
+    font-weight: 600;
+    font-size: 18px;
+    text-shadow: 2px -3px 3px rgba(0, 0, 0, 0.297);
+}
+
+#committe .description p
+{
+    color: rgba(8,61,119);
+    text-align: justify;
+    padding: 0 15px;
+}
+
+#committe .social-media
+{
+    position: absolute;
+    background-color: rgba(8,61,119);
+    bottom: -20px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    transition: all 1s;
+    opacity: 0;
+    height: fit-content;
+    border-radius: 0 0 15px 15px;
+    color: #fff;
+}
+
+#committe .description .social-media svg 
+{
+    font-size: 20px;
+    transition: all 1s;
+}
+
+#committe .member:hover .social-media
+{
+    width: 100%;
+    opacity: 1;
+}
+
+#committe .member:hover
+{
+    background-color: rgba(8,61,119,0.2);
+    transform: scale(1.01);
+}
+
+#committe .member:hover img
+{
+    transform: scale(1.1);
+    border: 2px solid rgba(8,61,119);
+}
+
+#committe .description .social-media svg:hover
+{
+    transform: scale(1.1);
+    color: #F21B3F;
+}
+
+#committe .member:hover::before
+{
+    width: 50%;
+}
+
+#committe .member:hover::after
+{
+    width: 50%;
+}

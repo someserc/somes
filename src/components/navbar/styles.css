@@ -1,0 +1,27 @@
+.sticky-top {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px 0px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+li {
+  font-weight: bold;
+}
+
+.nav-link {
+  transition: opacity 1s ease;
+  color: crimson;
+}
+
+.active-link {
+  opacity: 1;
+ 
+}
+
+@media screen and (max-width: 1024px) {
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+}

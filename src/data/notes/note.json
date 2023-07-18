@@ -1,0 +1,380 @@
+{
+  "year": {
+    "I": {
+      "name": "I Semester",
+      "Subjects": [
+        {
+          "id": 1,
+          "name": "C PROGRAMMING",
+          "drive": "https://drive.google.com/drive/folders/10rJ99uvNklUUbRJwftIPSCDsy164RD2T?usp=drive_link",
+          "youtube": "https://youtu.be/lXs_AAQnwCc"
+        },
+        {
+          "id": 2,
+          "name": "CHEMISTRY",
+          "drive": "https://drive.google.com/drive/folders/11gqgpzNv0grsyfjJ1fPXxPQOH8B5AeKt?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 3,
+          "name": "DRAWING I",
+          "drive": "https://drive.google.com/drive/folders/11IIaZxEPHjqewMnq21jFK8-E3qGM6pKN?usp=drive_link",
+          "youtube": "https://www.youtube.com/@TIKLESACADEMY"
+        },
+        {
+          "id": 4,
+          "name": "MATHMATICS VOLUME-I",
+          "drive": "https://drive.google.com/drive/folders/1-hTKXIuPT63DolUKPKldb4kLBicdcer4?usp=drive_link",
+          "youtube": "https://youtube.com/@SJMATHTUBE"
+        },
+        {
+          "id": 5,
+          "name": "THERMODYNAMICS",
+          "drive": "https://drive.google.com/drive/folders/1-5FiRpAMkV88pvIYAL6sUa6qsxc2MJIv?usp=drive_link",
+          "youtube": "https://youtu.be/9LNDTi5sxyk"
+        },
+        {
+          "id": 6,
+          "name": "WORKSHOP",
+          "drive": "https://drive.google.com/drive/folders/1-3ms3XO43hdILL3MIoyD-_s5U5LbC8By?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 7,
+          "name": "QUESTION BANK",
+          "drive": "https://drive.google.com/file/d/11tBl2RbrUnTUHfH8qDxzuIiA6Nba23Ky/view?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "II": {
+      "name": "II Semester",
+      "Subjects": [
+        {
+          "id": 8,
+          "name": "APPLIED MECHANICS",
+          "drive": "https://drive.google.com/drive/folders/12OLpZ1kGMq2Ae38-qWRf2HoYqbzWovbt?usp=drive_link",
+          "youtube": "https://youtu.be/r3_yBdd1Q_Y"
+        },
+        {
+          "id": 9,
+          "name": "BASIC ELECTRICAL",
+          "drive": "https://drive.google.com/drive/folders/12scsMeS4SVLPumx7sD-DKXoWErsgDvij?usp=drive_link",
+          "youtube": "https://youtu.be/dZyKXdvzSz0"
+        },
+        {
+          "id": 10,
+          "name": "BASIC ELECTRONICS",
+          "drive": "https://drive.google.com/drive/folders/14lHdJ2M57B70DezHdYCsei62Ph39TU6G?usp=drive_link",
+          "youtube": "https://www.youtube.com/live/Hq_8zewfMpY?feature=share"
+        },
+        {
+          "id": 11,
+          "name": "DRAWING II",
+          "drive": "https://drive.google.com/drive/folders/15jJQ6VX483TmoHqfvku58jNCncSofX4H?usp=drive_link",
+          "youtube": "https://www.youtube.com/@TIKLESACADEMY"
+        },
+        {
+          "id": 12,
+          "name": "MATHMATICS VOLUME-II",
+          "drive": "https://drive.google.com/drive/folders/16MH0AFyh8MDEho7BxIML0YI4FsHC7oVQ?usp=drive_link",
+          "youtube": "https://youtu.be/9LNDTi5sxyk"
+        },
+        {
+          "id": 13,
+          "name": "PHYSICS",
+          "drive": "https://drive.google.com/drive/folders/16feOV5LS277wOtvKc3PrdPnKpARa2onU?usp=drive_link",
+          "youtube": "https://www.youtube.com/watch?v=a_Ip8LpQokw"
+        },
+        {
+          "id": 14,
+          "name": "QUESTION BANK II SEM",
+          "drive": "https://drive.google.com/drive/folders/17R8aYm5U_bafKNQejjXHbmDTaVW_dBLt?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "III": {
+      "name": "III Semester",
+      "Subjects": [
+        {
+          "id": 15,
+          "name": "APPLIED THERMODYNAMICS",
+          "drive": "https://drive.google.com/drive/folders/17rb4FLogkze0djI1Pi7s4NVJ777FwQEd?usp=drive_link",
+          "youtube": "https://youtu.be/9LNDTi5sxyk"
+        },
+        {
+          "id": 16,
+          "name": "AUTOCAD",
+          "drive": "https://drive.google.com/drive/folders/183kjG2USDBJZrgl7R5rYedBJwgQpGg3O?usp=drive_link",
+          "youtube": "https://youtu.be/It2jXzsXrVw"
+        },
+        {
+          "id": 17,
+          "name": "ENGINEERING MECHANICS",
+          "drive": "https://drive.google.com/drive/folders/1B8HQHqlElXNOIMW_ZM6oWyHp7bLAS-Gz?usp=drive_link",
+          "youtube": "https://youtu.be/Rzz_4YcdD_s"
+        },
+        {
+          "id": 18,
+          "name": "MATERIAL SCIENCE",
+          "drive": "https://drive.google.com/drive/folders/1AAc0kVfsJW9XuaUie8yepqtQQdZdClmq?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 19,
+          "name": "MATHMATICS VOLUME-III",
+          "drive": "https://drive.google.com/drive/folders/1AzAGlaFWXOyhKH84KKTDceGrJO4qIuCF?usp=drive_link",
+          "youtube": "https://youtube.com/@SJMATHTUBE"
+        },
+        {
+          "id": 20,
+          "name": "METROLOGY",
+          "drive": "https://drive.google.com/drive/folders/1AW2ygAmfZp--BM3YPN_vIYvSKbWsy5Kw?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 21,
+          "name": "QUESTION BANK III SEM",
+          "drive": "https://drive.google.com/file/d/1E3uAZjfGaxfBg8iiCe438WdlgYhOGwAu/view?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "IV": {
+      "name": "IV Semester",
+      "Subjects": [
+        {
+          "id": 22,
+          "name": "ELECTRICAL MACHINE",
+          "drive": "https://drive.google.com/drive/folders/1lgtvEl4jaWPvIN2HLtlsbu2f81cGzvFa?usp=drive_link",
+          "youtube": "https://youtu.be/zKF9AMCC36w"
+        },
+        {
+          "id": 23,
+          "name": "FLUID MECHANICS",
+          "drive": "https://drive.google.com/drive/folders/1RSAgJAv_1HHr0NQeVBIeYJCqvbz-wymM?usp=drive_link",
+          "youtube": "https://youtu.be/HEj-QljWXgs"
+        },
+        {
+          "id": 24,
+          "name": "INSTRUMENTATION AND MEASUREMENT",
+          "drive": "https://drive.google.com/drive/folders/1B8HQHqlElXNOIMW_ZM6oWyHp7bLAS-Gz?usp=drive_link",
+          "youtube": "https://drive.google.com/drive/folders/1U-XLps7XTccfFt48me_Sz19asW8YQYZC?usp=drive_link"
+        },
+        {
+          "id": 25,
+          "name": "MATERIAL SCIENCE",
+          "drive": "https://drive.google.com/drive/folders/1AAc0kVfsJW9XuaUie8yepqtQQdZdClmq?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 26,
+          "name": "MANUFACTURING AND PRODUCTION",
+          "drive": "https://drive.google.com/drive/folders/1U8aIvLk-6Zk92ZZi9SlaOz3tJHFo3uJ3?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 27,
+          "name": "PROBABILITY AND STATISTICS",
+          "drive": "https://drive.google.com/drive/folders/1U4qEzJEPH0u9ALwDdX40iqfp0z4ZLe6_?usp=drive_link",
+          "youtube": "https://youtu.be/IRTfPVtuE-U"
+        },
+        {
+          "id": 28,
+          "name": "SOM",
+          "drive": "https://drive.google.com/drive/folders/1ROtakF0Q5WWWf2SkebbzwG0LnC2G_vtR?usp=drive_link",
+          "youtube": "https://youtube.com/playlist?list=PL9RcWoqXmzaLlfmNg2Ku1SdZtvXnYrLbc"
+        },
+        {
+          "id": 29,
+          "name": "QUESTION BANK ",
+          "drive": "https://drive.google.com/file/d/1DWs3MWbyfJGXBi9NYsyw1274fSULk-V_/view?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "V": {
+      "name": "V Semester",
+      "Subjects": [
+        {
+          "id": 30,
+          "name": "CONTROL SYSTEM",
+          "drive": "https://drive.google.com/drive/folders/1aVD4GHr6Rn8kR8sw1zKDi2kMq_XilVEy?usp=drive_link",
+          "youtube": "https://youtube.com/@nesoacademy"
+        },
+        {
+          "id": 31,
+          "name": "FLUID MACHINES",
+          "drive": "https://drive.google.com/drive/folders/1_LJX9F_gX1JNz-AUkb4-LZZK2Q2h4aDo?usp=drive_link",
+          "youtube": "https://youtube.com/playlist?list=PLbjTnj-t5Gkm71P9uqxB2TJMUeCguv4Xt"
+        },
+        {
+          "id": 32,
+          "name": "HEAT TRANSFER",
+          "drive": "https://drive.google.com/drive/folders/1YfXaAWj_DFFlDt16DYFFcKJXpxlNPhen?usp=drive_link",
+          "youtube": "https://youtube.com/playlist?list=PLNyPK_sfNdSTiAczWmvY3tq33yWh_IHL2"
+        },
+        {
+          "id": 33,
+          "name": "MECHANICS OF SOLID",
+          "drive": "https://drive.google.com/drive/folders/1YT-TSe1adoS_twsS0wGXQh8--7K96Qjf?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 34,
+          "name": "NUMERICAL METHODS",
+          "drive": "https://drive.google.com/drive/folders/1Vy2K14GDqToRxCg-1tIZzVpCDl-mWnbR?usp=drive_link",
+          "youtube": "https://youtube.com/playlist?list=PLU6SqdYcYsfIk1VhXxIYNPFU67ym6gae8"
+        },
+        {
+          "id": 35,
+          "name": "ORG AND MANAGEMENT",
+          "drive": "https://drive.google.com/drive/folders/1WdkEYnfYuJZPh3c_KQ-KWlAAch6Of3g3?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 36,
+          "name": "QUESTION BANK",
+          "drive": "https://drive.google.com/file/d/1adwjmLD2cwWGW_i107g5rqAXaWaKGNce/view?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "VI": {
+      "name": "VI Semester",
+      "Subjects": [
+        {
+          "id": 37,
+          "name": "COMMUNICATION ENGLISH",
+          "drive": "https://drive.google.com/drive/folders/1ocIp4nOtxZ_t3d3BaUZ1ekohkeazR9vu?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 38,
+          "name": "ENERGY RESOURCES",
+          "drive": "https://drive.google.com/drive/folders/1p3YSzxORmqMWLKjwLxfAqYcfAJ9bRFgm?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 39,
+          "name": "INDUSTRIAL ENGINEERING",
+          "drive": "https://drive.google.com/drive/folders/1rSVed-BSJ8AO20ZhBOFKgCfwMngmm_lS?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 40,
+          "name": "INTERNAL COMBUSTION ENGINE",
+          "drive": "https://drive.google.com/drive/folders/1trypcUjAFl1ViGRRCzTeVvRiY1lzXHS5?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 41,
+          "name": "MACHINE DESIGN",
+          "drive": "https://drive.google.com/drive/folders/1yc2wzUHVbnaeCSDDm-PuzXsDHyJxnDrj?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 42,
+          "name": "TOM",
+          "drive": "https://drive.google.com/drive/folders/1VKhqP4CD5tj6HlVI7GcyDaPPm85hy-9f?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 43,
+          "name": "QUESTION BANK",
+          "drive": "https://drive.google.com/drive/folders/15OGvn0Jm7GiuySV5cK9SY18j2CPWz88y?usp=drive_link",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "VII": {
+      "name": "VII Semester",
+      "Subjects": [
+        {
+          "id": 39,
+          "name": "AERO",
+          "drive": "https://drive.google.com/drive/folders/1tbOUPwBreFDcm0nPAnTHg6OHkBhAhGUZ?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 40,
+          "name": "Auto Mobile",
+          "drive": "https://drive.google.com/drive/folders/1nhdo4VwFAPk9LWIi3An4RpPSWFFQN_Ki?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 41,
+          "name": "Engineering Economics",
+          "drive": "https://drive.google.com/drive/folders/1xwwdQlwtQIvScSWvncSakLl6MC89Aon2?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 42,
+          "name": "MD-II",
+          "drive": "https://drive.google.com/drive/folders/1_hzMdN5ywcmHX-zGcAq0TsyBQBXJoYRg?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 43,
+          "name": "Pollution",
+          "drive": "https://drive.google.com/drive/folders/1rs1phL_PvJhUgDY5cstXvzyneGimFjY4?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 44,
+          "name": "TMM II",
+          "drive": "https://drive.google.com/drive/folders/1QPw_1KgA5So4zAZOraQ0t1W3hTJ6Fseh?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 45,
+          "name": "TURBO",
+          "drive": "https://drive.google.com/drive/folders/1K0GIpIVbZjJpFbULtkx1Rkn249mX3r33?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 46,
+          "name": "OLD QUESTIONS",
+          "drive": "https://drive.google.com/drive/folders/1rs6Bm2YFJ8oeelpeDzvaYBNzmTzZMnKe?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    },
+    "VIII": {
+      "name": "VIII Semester",
+      "Subjects": [
+        {
+          "id": 47,
+          "name": "EEP",
+          "drive": "https://drive.google.com/drive/folders/1Df_mjhQbzPvmDmFPeB8WZLnqM7jcN6Yb?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 48,
+          "name": "FEM",
+          "drive": "https://drive.google.com/drive/folders/1h1wlAjT2XdNoKc1LgqWNF1utmOlnsLjo?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 49,
+          "name": "HYDRO",
+          "drive": "https://drive.google.com/drive/folders/1iuOeAHJNJPCrXeAKYQmNAevCv_-1HlCQ?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 50,
+          "name": "Project Management",
+          "drive": "https://drive.google.com/drive/folders/1R8rwseQgAIPyoSwOhPN5V1OxuZvqHBrN?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        },
+        {
+          "id": 51,
+          "name": "QUESTION BANK ",
+          "drive": "https://drive.google.com/drive/folders/1SX4uMhH0vnA0MjSTh-QUkkEoKc49cDKd?fbclid=IwAR19cJzVw6BZhzrDqY16XBqL789rt3cioBrhRqTTmFlH4KCHHjPS0DLcjW4",
+          "youtube": "https://www.youtube.com"
+        }
+      ]
+    }
+  }
+}
