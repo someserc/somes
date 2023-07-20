@@ -1,7 +1,10 @@
+
+
 .footer {
   background-color: hwb(0 17% 82%);
   color: #fff;
   padding: 20px;
+  margin-bottom: 0px !important;
 }
 .pred {
   display: flex;
@@ -17,7 +20,7 @@
 
 .social-media a {
   font-size: 44px;
-  margin: 0 10px;
+ 
   text-decoration: none;
   color: inherit;
 }
@@ -39,7 +42,8 @@
   width: 100%;
   height: 250px;
   overflow: hidden;
-  border: 5px solid rgb(14, 12, 12);
+  border: 2px solid rgb(14, 12, 12);
+  border-radius: 5px;
 }
 .q-links {
   display: flex;
@@ -62,6 +66,7 @@
 
 .links a:hover {
   opacity: 0.5;
+  color: crimson;
   border-bottom: 1px solid white;
 }
 
@@ -71,6 +76,8 @@
 @media screen and (max-width: 450px) {
   .map {
     width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
     height: 200px;
   }
 }
