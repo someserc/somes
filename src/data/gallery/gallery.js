@@ -33,6 +33,10 @@ const gData = [
         "id":6,
         "image":IMG9,
     },
+    {
+        "id":14,
+        "image":IMG6,
+    },
      {
         "id":7,
         "image":IMG10,
@@ -61,10 +65,7 @@ const gData = [
         "id":13,
         "image":IMG16,
     },
-     {
-        "id":14,
-        "image":IMG6,
-    },
+    
      
 ]
 

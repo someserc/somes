@@ -4,6 +4,7 @@ import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
 import gData from "../../data/gallery/gallery.js";
 import { toast } from "react-toastify";
 const Gal = () => {
+  const isNonMobile = "maxWidth:600px";
   const [data,setData] = useState({img:'', i:0});
   const viewImage=(img,i)=>{
     setData({img,i})
@@ -40,14 +41,15 @@ const Gal = () => {
       {
         data.img && 
             <div style={{
-              width:"100%",
-              height:"60vh",
-              background:"black",
+              width:"100vw",
+              height:"100vh",
+              background:"rgba(0,0,0,0.8)",
               position:"fixed",
               display:"flex",
               justifyContent:"center",
               alignItems:"center",
-              overflow:"hidden"
+              overflow:"hidden",
+              top:"0"
 
 
             }} >
@@ -55,9 +57,14 @@ const Gal = () => {
                 <img src={data.img} style={{
                   width:"auto",
                   maxWidth:"90%",
-                  maxHeight:"90%"
-                }} alt="loading .." />
-               <button type="button" onClick={()=>imgAction() } className="btn-close btn-close-white btn-primary" style={{position:"absolute",top:"5%", color:"green"}} aria-label="Close">
+                  maxHeight:"60%",
+                  borderRadius:"10px"
+                 
+                }
+                } 
+              
+              alt="loading .." />
+               <button onClick={()=>imgAction() } className="btn-close btn-close-white" style={{position:"absolute",top:"15%"}} >
                 </button>
                  <button onClick={()=>imgAction("prev-img")} className="carousel-control-prev" data-slide="prev">
                   <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -82,6 +89,7 @@ const Gal = () => {
                             style={{width: "100%", display: "block", cursor:"pointer"}}
                             alt=""
                             onClick={()=>viewImage(image.image,i)}
+                            className="shadow-sm  rounded"
                         />
                     ))}
                 </Masonry>
