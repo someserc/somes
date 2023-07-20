@@ -15,7 +15,7 @@ const LazyEvents = React.lazy(() => import("./pages/events/Events.js"));
 const App = () => {
   return (
     <>
-      <Router>
+      <Router basename="/somes">
         <ScrollToTop />
         <Routes>
         <Route path="/" element={<Home />}></Route>
