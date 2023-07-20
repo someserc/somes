@@ -9,6 +9,7 @@ import GoToTop from "./components/topButton/GoToTop";
 import ScrollToTop from "./components/scrollToTop/ScrollToTop";
 import Gal from "./pages/gallery/Gal";
 import PageNotFound from "./pages/pageNotFound/PageNotFound";
+import { ToastContainer } from "react-toastify";
 
 const LazyEvents = React.lazy(() => import("./pages/events/Events.js"));
 
@@ -16,6 +17,18 @@ const App = () => {
   return (
     <>
       <Router basename="/somes">
+        <ToastContainer
+        position="top-center"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="colored"
+        />
         <ScrollToTop />
         <Routes>
         <Route path="/" element={<Home />}></Route>
