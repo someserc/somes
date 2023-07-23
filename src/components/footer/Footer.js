@@ -98,9 +98,9 @@ const Footer = () => {
         </Link>
       </div>
 
-      <h2 className="text-center my-4">
+      <h3 className="text-center my-4">
         SOCIETY OF MECHANICAL ENGINEERING STUDENTS(SOMES)
-      </h2>
+      </h3>
     </footer>
   );
 };
