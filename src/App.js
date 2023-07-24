@@ -30,7 +30,7 @@ const App = () => {
         theme="colored"
         />
         <ScrollToTop />
-        <Routes>
+        <Routes baseName="/somes">
         <Route path="/" element={<Home />}></Route>
         <Route path="/somes" element={<Home />}></Route>
         <Route path="/someserc" element={<Home />}></Route>
