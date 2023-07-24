@@ -67,7 +67,7 @@ const Home = () => {
       {/* MESSAGE FROM PRESIDENT */}
 
       <div className="row  president-msg-container">
-        <div className="col-lg-8  president-msg">
+        <div className="col-lg-8  president-msg order-md-1 order-sm-2">
           <h1>Message From President</h1>
 
           <p>
@@ -86,7 +86,7 @@ const Home = () => {
             remarkable journey with all of you.
           </p>
         </div>
-        <div className="col-lg-4 president-image">
+        <div className="col-lg-4 president-image order-md-2 order-sm-1">
           <img src={Anil} alt="" className="img-fluid president-img" />
           <h5 className="text-center">Mr. Anil Dangi</h5>
           <h6 className="text-center text-muted">PRESIDENT of SOMES</h6>

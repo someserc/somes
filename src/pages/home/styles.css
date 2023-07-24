@@ -106,8 +106,8 @@ body {
 }
 .president-img,
 .hod-img {
-  width: 100%;
-  height: 400px;
+  width: 80%;
+  height: 350px;
   border-radius: 20px;
 }
 .president-msg,
