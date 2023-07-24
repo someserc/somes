@@ -16,7 +16,7 @@ const LazyEvents = React.lazy(() => import("./pages/events/Events.js"));
 const App = () => {
   return (
     <>
-      <Router basename="/somes">
+      <Router>
         <ToastContainer
         position="top-center"
         autoClose={5000}
