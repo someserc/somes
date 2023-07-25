@@ -27,15 +27,11 @@ const Home = () => {
           </button>
         </div>
         <div className="header-image-container">
-          <img
-            src={headerimg}
-            alt=""
-            className="header-image"
-          />
+          <img src={headerimg} alt="" className="header-image" />
           <img src={wheel} alt="" className="wheel" />
         </div>
       </div>
-     
+
       {/* About us section */}
 
       <div className="row about-container" id="about">
@@ -55,15 +51,10 @@ const Home = () => {
           </p>
         </div>
         <div className="col-lg-4 about-image  order-md-2 order-sm-1">
-          <img
-            src={logo}
-            alt="Loading"
-            className="img-fluid"
-           
-          />
+          <img src={logo} alt="Loading" className="img-fluid" />
         </div>
       </div>
-    
+
       {/* MESSAGE FROM PRESIDENT */}
 
       <div className="row  president-msg-container">
@@ -92,9 +83,9 @@ const Home = () => {
           <h6 className="text-center text-muted">PRESIDENT of SOMES</h6>
         </div>
       </div>
-    
+
       <div className="row  hod-msg-container">
-      <div className="col-lg-4 hod-image">
+        <div className="col-lg-4 hod-image">
           <img src={hod} alt="" className="img-fluid hod-img" />
           <h5 className="text-center">PROF. ROSHAN GHIMIRE</h5>
           <h6 className="text-center text-muted">
@@ -105,9 +96,11 @@ const Home = () => {
           <h1>Message From HOD</h1>
 
           <p>
-            Students, I am thrilled to announce MechCamp, the grand event
-            organized by the Mechanical Society (SOMES) in our department.
-            MechCamp is a unique opportunity for mechanical engineering
+            As a HOD of mechanical department, I feel great pride that our
+            society SOMES is continuously working in mobilising studenta and
+            enhancing academic and skill development journey through various
+            training, webinars and competitions. SOMES is also organising
+            Mechcamp which is a unique opportunity for mechanical engineering
             enthusiasts to showcase their skills, exchange ideas, and ignite
             their passion for the field. With engaging workshops, technical
             sessions, guest lectures by industry experts, and hands-on
@@ -130,18 +123,16 @@ const Home = () => {
             significant contributions to the world of mechanical engineering.
           </p>
         </div>
-      
       </div>
-     
+
       <div className="container">
         <div className="row g-3">
-          <h3 style={{textAlign:"center"}}> Quick Visits </h3>
+          <h3 style={{ textAlign: "center" }}> Quick Visits </h3>
           <div className="col-12 col-md-6 col-lg-4">
             <div className="card shadow hover-overlay">
               <img
                 src={studymtr}
                 height="250px"
-               
                 alt=""
                 className="card-img-top"
               />
@@ -151,7 +142,7 @@ const Home = () => {
                   All notes available with youtube links.
                 </p>
                 <Link to="/notes" className="btn btn-outline-primary btn-sm">
-                Visit &rarr;
+                  Visit &rarr;
                 </Link>
               </div>
             </div>
@@ -170,7 +161,7 @@ const Home = () => {
                   Grand Event that SOMES organizes annually.
                 </p>
                 <Link to="/events" className="btn btn-outline-primary btn-sm">
-                Visit &rarr;
+                  Visit &rarr;
                 </Link>
               </div>
             </div>
@@ -185,7 +176,9 @@ const Home = () => {
               />
               <div className="card-body">
                 <h5 className="card-title">Alumni</h5>
-                <p className="card-text text-black-50">Here you can add or see the list of passout seniors.</p>
+                <p className="card-text text-black-50">
+                  Here you can add or see the list of passout seniors.
+                </p>
                 <Link to="/alumni" className="btn btn-outline-primary btn-sm">
                   Visit &rarr;
                 </Link>
@@ -194,13 +187,11 @@ const Home = () => {
           </div>
         </div>
       </div>
-     
 
       <h2 className="d-flex font-roboto justify-content-center crousel-content my-5">
         Some Glimpses Of Mech-Camp
       </h2>
       <Gallery />
-     
     </Layout>
   );
 };
