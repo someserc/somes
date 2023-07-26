@@ -1,0 +1,31 @@
+/* goToTopButton.css */
+
+.top-btn {
+  position: fixed;
+  bottom: 50px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.button-style {
+  color: white;
+
+  background-color: #4caf50;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.button-style:hover {
+  background-color: white;
+  color: #4caf50;
+}

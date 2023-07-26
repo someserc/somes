@@ -1,6 +1,7 @@
 import React from "react";
 import { FaArrowUp } from "react-icons/fa";
 import { useEffect, useState } from "react";
+import "./styles.css";
 
 const GoToTop = () => {
   const [goToTop, setGoToTop] = useState(false);
@@ -18,17 +19,7 @@ const GoToTop = () => {
   };
   return (
     <div className="top-btn" onClick={goToBtn}>
-      {goToTop && (
-        <FaArrowUp
-          style={{
-            position: "fixed",
-            bottom: "50px",
-            right: "10px",
-            color: "rgba(221,181,34,255)",
-            fontSize: "40px",
-          }}
-        />
-      )}
+      {goToTop && <FaArrowUp className="button-style" />}
     </div>
   );
 };
